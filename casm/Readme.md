@@ -1,4 +1,4 @@
-This is "C with assermbly interaction" application.
+This is "C with assembly interaction" application.
 
 Build it with: `make`
 
